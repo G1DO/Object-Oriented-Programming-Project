@@ -117,11 +117,6 @@ The Library Management System is a Java-based application that demonstrates the 
 
 ---
 
-## License
-This project is open-source and available under the MIT License.
-
----
-
 ## Author
-Gedo 
+Ibrahim
 
